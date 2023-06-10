@@ -1,0 +1,34 @@
+students:
+  - name: Amelia Richards
+    age: 20
+    legend:
+    story: |
+      Mysterious blonde friend
+      The ex-partner of Queen’s best friend Camilla’s son
+    country:
+      name: Ukraine
+      language: Ukrainian
+    city: Kyiv
+    pets: [dog, cat]
+    cars:
+    gender: female
+    hasCompletedHomework: true
+  - name: John Snow
+    age: 28
+    legend: >
+      John actually
+      is not Snow,
+      but Targaryen
+    story:
+    country:
+      name: Poland
+      language: Polish
+    city: Warsaw
+    pets:
+    cars:
+      - brand: Volkswagen
+        model: Passat NMS
+        isElectric: true
+        color: blue
+    gender: male
+    hasCompletedHomework: false

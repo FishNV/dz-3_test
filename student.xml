@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student name="Amelia Richards">
+        <age>20</age>
+        <legend></legend>
+        <story>Mysterious blonde friend
+            The ex-partner of Queen’s best friend Camilla’s son</story>
+        <country>
+            <name>Ukraine</name>
+            <language>Ukrainian</language>
+        </country>
+        <city>Kyiv</city>
+        <pets>
+            <pet type="dog" />
+            <pet type="cat" />
+        </pets>
+        <cars></cars>
+        <gender>female</gender>
+        <hasCompletedHomework>true</hasCompletedHomework>
+    </student>
+    <student name="John Snow">
+        <age>28</age>
+        <legend>John actually is not Snow, but Targaryen</legend>
+        <story></story>
+        <country>
+            <name>Poland</name>
+            <language>Polish</language>
+        </country>
+        <city>Warsaw</city>
+        <pets></pets>
+        <cars>
+            <car>
+                <brand>Fiat</brand>
+                <model>Passat NMS</model>
+                <isElectric>true</isElectric>
+                <color>blue</color>
+            </car>
+        </cars>
+        <gender>male</gender>
+        <hasCompletedHomework>false</hasCompletedHomework>
+    </student>
+</students>
